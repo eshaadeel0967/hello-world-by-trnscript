@@ -1,4 +1,4 @@
-Here's a tailored `README.md` for your GitHub project "hello-world-by-typescript":
+\GitHub project "hello-world-by-typescript":
 
 ```markdown
 # Hello World by TypeScript
